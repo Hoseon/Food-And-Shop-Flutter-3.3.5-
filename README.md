@@ -1,6 +1,7 @@
 # food_and_shop
 
-A new Flutter project.
+추호선의 음식 주문 앱 입니다.
+Food And Shop
 
 ## Getting Started
 
